@@ -1,0 +1,64 @@
+.jumbotron{
+  background-color:rgba(3,3,3,0.85);
+        margin-top:50px;
+        margin-bottom:0%;
+        position:relative;
+        align-items: center; 
+      }
+
+      body{
+        min-height: 75rem;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+        padding:50px 80px 90px 90px;
+      }
+
+      .container-xl{
+        color: black;
+        background-color:rgba(255,255,255,1.0);
+        padding:50px 80px 90px 90px;
+          
+      }
+
+      .vertical-center{
+        min-height: 100%; 
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+      }
+
+      .parallax {
+        background-image: url("../images/bg-3.jpg");
+        height: 500px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+      .parallax2 {
+        background-image: url("../images/bg-4.jpg");
+        height: 500px;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+          body{
+      height: 100vh;
+      text-align: center;
+        }
+
+        .pic{
+          width:1.5em;
+          height:auto;
+          border-radius:100%;
+        }
+
+        .dark-bg{
+          background-color:rgba(3,3,3,0.8);
+          color:#111;
+        }
